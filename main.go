@@ -5,5 +5,6 @@ func main() {
 	sdfnjksdanmksjfdklsdn
 	git
 	its edited
-	fetch ediyt
+	fetch edit
+	fetch edit 2
 }
